@@ -57,9 +57,7 @@ Ans:  Define the external width – We need to define the external width. Block-
  Margin is a property that tells how to align a remaining space. So for centering the element you must set left-margin to auto and right-margin to auto.
 
 (13)  How to maintain the CSS specification ?
-Ans:  CSS invented by Håkon Wium Lie on October 10, 1994, and maintained by a group of people within the W3C called the CSS Working Group. The CSS Working Group creates documents called specifications. When a specification has been discussed and officially ratified by W3C members, it becomes a recommendation.
-
-These ratified specifications are called recommendations because the W3C has no control over the actual implementation of the language. Independent companies and organizations create that software.
+Ans:  
 
 
 
